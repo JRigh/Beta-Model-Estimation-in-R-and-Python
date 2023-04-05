@@ -4,6 +4,6 @@
 We perform the method of Moments and Maximum Likelihood estimation for a univariate Beta model.
 
 
-<img src="/assets/ml1.png" width="400">
+<img src="/assets/plot2R.png" width="400">
 
 
